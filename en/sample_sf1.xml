@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="SF" sourceType="sales_promotion__kav" sourceName="sample_sf1" sourceId="ka128000000I1PyAAK">
+    <field id="Id" name="Id" translate="false" maxLength="18" type="Id" metadata="true"><![CDATA[kâá128000000Ï1Q3ÀÀK]]></field>
+    <field id="Language" name="Language" translate="false" maxLength="18" type="Text" metadata="true"/>
+    <field id="KnowledgeArticleId" name="KnowledgeArticleId" translate="false" maxLength="20" type="Id" metadata="true"><![CDATA[kÀ128000000HyvÔCÀS]]></field>
+    <field id="CreatedById" name="CreatedById" translate="false" maxLength="20" type="Id" metadata="true"><![CDATA[00528000003XnqJÆÆS]]></field>
+    <field id="MasterVersionId" name="MasterVersionId" translate="false" maxLength="20" type="Id" metadata="true"><![CDATA[kââ128000000Î1PyÀÀK]]></field>
+    <field id="Title" name="Title" translate="true" maxLength="255" type="string" metadata="false"><![CDATA[sæàmplèë_sf1]]></field>
+    <field id="Test_developers__c" name="Test_developers" translate="true" maxLength="255" type="string" metadata="false"><![CDATA[æäsdæä]]></field>
+    <field id="my_custom_field__c" name="my custom  field" translate="true" maxLength="255" type="textarea" metadata="false"><![CDATA[sààààdààsd]]></field>
+    <field id="Summary" name="Summary" translate="true" maxLength="1000" type="textarea" metadata="false"><![CDATA[âãsddâã]]></field>
+</content>
