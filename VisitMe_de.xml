@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <content connectType="Marketo" sourceType="Email" sourceName="VisitMe" sourceId="1011">
-    <field id="1011" name="subject" translate="true" maxLength="0" metadata="false"><![CDATA[Wëélcöömëé!]]></field>
-    <field id="edit_text_1" name="html" translate="true" maxLength="0" metadata="false"><![CDATA[<p>Hèéllòö ,</p>
-<p>Plèëàäsèë jõóíîn mèë íîn wèëlcõómíîng thèë Màärkèëtõó Åssèët ÅPÍ.</p>
-<p>Nèêèêrâáj</p>]]></field>
+    <field id="1011" name="subject" translate="true" maxLength="0" metadata="false"><![CDATA[Wéêlcóóméê!]]></field>
+    <field id="edit_text_1" name="html" translate="true" maxLength="0" metadata="false"><![CDATA[<p>Hêêllóõ ,</p>
+<p>Pléêáäséê jöôïìn méê ïìn wéêlcöômïìng théê Máärkéêtöô Âsséêt ÂPÎ.</p>
+<p>Nêëêëræãj</p>]]></field>
     <field id="edit_text_1" name="text" translate="true" maxLength="0" metadata="false"><![CDATA[]]></field>
     <field id="edit_text_2" name="html" translate="true" maxLength="0" metadata="false"><![CDATA[]]></field>
     <field id="edit_text_2" name="text" translate="true" maxLength="0" metadata="false"><![CDATA[]]></field>

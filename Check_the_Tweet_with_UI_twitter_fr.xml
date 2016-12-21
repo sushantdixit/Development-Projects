@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="Percolate" sourceType="Post:twitter" sourceName="Check the Tweet with UI" sourceId="22621412">
+    <field id="20258095" name="channel" translate="false" maxLength="0" type="text" metadata="true"><![CDATA[twíîttéër_Væáíîbhæáv Khæáréë]]></field>
+    <field id="20258095" name="body" translate="true" maxLength="140" metadata="false"><![CDATA[Chêêck thêê Twêêêêt wîîth ÚÌ]]></field>
+</content>
